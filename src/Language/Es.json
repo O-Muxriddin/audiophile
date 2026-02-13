@@ -1,19 +1,16 @@
 {
   "translation": {
-    "Home":"Inicio",
-    "HEADPHONES":"Auriculares",
-    "SPEAKERS":"Altavoces",
-    "EARPHONES":"Auriculares internos",
-      "FooterText": "Audiophile es un destino todo en uno para cubrir todas tus necesidades de audio. Somos un pequeño equipo de amantes de la música y especialistas en sonido dedicados a ayudarte a sacar el máximo provecho del audio personal. Visita nuestro espacio de demostración — estamos abiertos los 7 días de la semana.",
+    "Home": "Inicio",
+    "HEADPHONES": "Auriculares",
+    "SPEAKERS": "Altavoces",
+    "EARPHONES": "Auriculares internos",
+    "FooterText": "Audiophile es un destino todo en uno para cubrir todas tus necesidades de audio. Somos un pequeño equipo de amantes de la música y especialistas en sonido dedicados a ayudarte a sacar el máximo provecho del audio personal. Visita nuestro espacio de demostración — estamos abiertos los 7 días de la semana.",
     "FooterCopy": "Copyright 2021. Todos los derechos reservados",
     "INTHEBOX": "Contenido de la caja",
-    "headphoneUnit": " Unidad de auriculares",
     "Replacement": " Almohadillas de repuesto",
-    "User": " Manual de usuario",
-    "AudioCable": " Cable de audio de 3.5 mm (5 m)",
-    "Feature":"Características",
-        "CtaText":"Ubicada en el corazón de la ciudad de Nueva York, Audiophile es la tienda líder en auriculares de alta gama, audífonos, altavoces y accesorios de audio. Contamos con un amplio showroom y salas de demostración de lujo donde puedes explorar y experimentar una gran variedad de nuestros productos. Visita nuestra tienda y conoce al increíble equipo que hace de Audiophile el mejor lugar para comprar tu equipo de audio portátil.",
-        "CtaTitle":"Te ofrecemos el mejor equipo de audio"
-,"Add":"Añadir al carrito"
+    "Feature": "Características",
+    "CtaText": "Ubicada en el corazón de la ciudad de Nueva York, Audiophile es la tienda líder en auriculares de alta gama, audífonos, altavoces y accesorios de audio. Contamos con un amplio showroom y salas de demostración de lujo donde puedes explorar y experimentar una gran variedad de nuestros productos. Visita nuestra tienda y conoce al increíble equipo que hace de Audiophile el mejor lugar para comprar tu equipo de audio portátil.",
+    "CtaTitle": "Te ofrecemos el mejor equipo de audio",
+    "Add": "Añadir al carrito"
   }
 }
